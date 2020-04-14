@@ -1,0 +1,11 @@
+CHANGELOG
+
+2020-04-15
+case-information.csv
+- renamed "RegionRes" field to "RegProvRes" to reflect actual data
+- renamed "ProvRes" field to "MuniCityRes" to reflect actual data
+- renamed Compostela Valley to Davao de Oro (Compostela Valley) based on PSGC Publication Dec2019 of the PSA
+
+metadata-fields.csv
+- renamed "RegionRes" field to "RegProvRes" to reflect actual data stored
+- renamed "ProvRes" field to "MuniCityRes" to reflect actual data stored
