@@ -1,6 +1,8 @@
 CHANGELOG
 
 2020-04-15
+Added data-modified folder
+[data modified]
 case-information.csv
 - renamed "RegionRes" field to "RegProvRes" to reflect actual data
 - renamed "ProvRes" field to "MuniCityRes" to reflect actual data

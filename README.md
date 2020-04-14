@@ -2,11 +2,13 @@
 
 CSVs of DOH COVID-19 PH Data Dump Google Sheets released by the Philippines' Department of Health (DOH) and accessible [here](https://docs.google.com/spreadsheets/d/1BLbrvgjkBWxr9g73xX9DLOqmbmuYyKc-_b8jIxCX1uo/htmlview#). Cleaned and formatted as CSVs.
 
-The [**data**](https://github.com/benhur07b/covid19ph-doh-data-dump/tree/master/data) folder hosts the most recent data.
+The [**data**](https://github.com/benhur07b/covid19ph-doh-data-dump/tree/master/data) folder hosts the most recent data from DOH w/o modifications.
+The [**data-modified**](https://github.com/benhur07b/covid19ph-doh-data-dump/tree/master/data) folder hosts the most recent data from DOH with some modifications (changed field names, field values, etc).
 The [**archive**](https://github.com/benhur07b/covid19ph-doh-data-dump/tree/master/archive) folder hosts older data.
 
 ## CHANGELOG
 ### 2020-04-15
+**[data-modified]**
 **case-information.csv**
 * renamed "RegionRes" field to "RegProvRes" to reflect actual data stored
 * renamed "ProvRes" field to "MuniCityRes" to reflect actual data stored
