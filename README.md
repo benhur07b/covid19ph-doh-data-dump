@@ -2,6 +2,9 @@
 
 CSVs of DOH COVID-19 PH Data Dump Google Sheets released by the Philippines' Department of Health (DOH) and accessible [here](https://docs.google.com/spreadsheets/d/1BLbrvgjkBWxr9g73xX9DLOqmbmuYyKc-_b8jIxCX1uo/htmlview#). Cleaned and formatted as CSVs.
 
+The **data** folder hosts the most recent data.
+The **archive** folder hostts older data.
+
 ## Updates
 
 ### Case Information
