@@ -9,6 +9,7 @@ The [**archive**](https://github.com/benhur07b/covid19ph-doh-data-dump/tree/mast
 ## CHANGELOG
 ### 2020-04-15
 **[data-modified]**
+
 **case-information.csv**
 * renamed "RegionRes" field to "RegProvRes" to reflect actual data stored
 * renamed "ProvRes" field to "MuniCityRes" to reflect actual data stored
