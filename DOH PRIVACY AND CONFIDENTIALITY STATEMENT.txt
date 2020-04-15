@@ -1,0 +1,26 @@
+MANDATES AND COMMITMENTS
+The Department of Health (DOH) is committed to protect and promote public health, and to enhance transparency and accountability through freedom of information and open governance pursuant to:
+(1) Section 28, Article II of the 1987 Constitution, whereby the State adopts and implements a policy of full public disclosure of all its transactions involving public interest, subject to reasonable conditions prescribed by law;
+(2) Section 7, Article III of the same Constitution, which guarantees the right of people to information on matters of public concern;
+(3) Republic Act No. 10173, or the Data Privacy Act of 2012, and its implementing rules and regulations, which strengthens the fundamental human right of privacy and  communication while ensuring the free flow of information to promote innovation and growth;
+(4) Executive Order No. 2, series of 2016, which ensures that every Filipino shall have access to information, official records, public records and to documents and papers pertaining to official acts, transactions or decisions, as well as to government research data used as basis for policy development; and
+(5) Republic Act No. 11332, or the Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern Act of 2018, which requires the mandatory reporting of reportable diseases and health events of public health concern.
+ 
+DUTY TO PUBLISH INFORMATION
+The DOH shall regularly publish, print and disseminate in an accessible form, in accordance with Republic Act No. 9485, Anti-Red Tape Act of 2007, and through their website, timely, true, accurate and updated key information. All datasets created, collected, processed, disseminated by the DOH through the use of public funds to the extent permitted by applicable laws and subject to individual privacy, confidentiality, national security or other legally-mandated restrictions, shall be fully disclosed publicly in open formats.
+ 
+PROTECTION OF PRIVACY AND CONFIDENTIALITY
+DOH shall afford full protection to a person's right to privacy in compliance with the Data Privacy Act of 2012 and other existing laws and/or policies. All identifiers, personal and sensitive personal information have been removed in this anonymized datasets to protect the privacy and confidentiality of the respondents/data subjects.
+ 
+RESPONSIBLE USE OF GOVERNMENT DATA
+Information published by the DOH through its website, FOI platform and/or Open Data portals are provided free for public consumption and shall be used only in accordance with existing laws, policies, procedures, rules, and regulations. The DOH assumes no liability for any errors, omissions or inaccuracies in the data and its interpretations as information may change at any time without notice. 
+The use of information herewith shall be subject to the following terms and conditions:
+(1) DOH advocates the access, use, re-use, and free sharing of the government data without restrictions. However, in all such use, proper attribution or acknowledgement of the data source shall be made.
+(2) DOH does not have controls over the end-use of data. Hence, DOH cannot vouch for any analyses conducted using data retrieved from DOH publication, FOI, and Open Data portals.
+(3) The data shall only be used in accordance with existing laws, policies, procedures, rules, and regulations. Malicious use of information is punishable by law.
+(4) Data users are encouraged to report to DOH any errors, inaccuracies, oversight or sensitive personal information found when accessing and using published data.
+
+DOH AND NPC JOINT STATEMENT ON  THE DISCLOSURE OF COVID-19 RELATED DATA
+The DOH and the National Privacy Commission uphold the Republic Act No. 11332 or the Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern Act and the Data Privacy Act of 2012 in processing COVID-19 patient data in pursuit of disease surveillance and response. We stand firm against any form of unbridled public disclosure of patients’ personal data that has been proven to cause a real risk of severe harm to patients, and guarantee that the data privacy rights of these patients are protected in any form of disclosure.
+For feedback or to report concerns, please email covidtracker@doh.gov.ph
+
