@@ -1,6 +1,6 @@
 # DOH COVID-19 PH Data Dump
 
-CSVs of DOH COVID-19 PH Data Dump released by the Philippines' Department of Health (DOH) and accessible from the [**DOH COVID-19 Tracker**](https://www.doh.gov.ph/covid19tracker) and shared via [Google Sheets](https://docs.google.com/spreadsheets/u/1/d/1BLbrvgjkBWxr9g73xX9DLOqmbmuYyKc-_b8jIxCX1uo/edit). 
+CSVs of DOH COVID-19 PH Data Dump released by the Philippines' Department of Health (DOH) and accessible from the [**DOH COVID-19 Tracker**](https://www.doh.gov.ph/covid19tracker) and shared via [Google Sheets](https://docs.google.com/spreadsheets/u/1/d/1BLbrvgjkBWxr9g73xX9DLOqmbmuYyKc-_b8jIxCX1uo/edit).
 
 Cleaned and formatted as CSVs.
 
@@ -24,19 +24,18 @@ The [**archive**](https://github.com/benhur07b/covid19ph-doh-data-dump/tree/mast
 ## UPDATES
 
 ### Case Information
- * 2020-04.14
+ * 2020-04.16
 
 ### DOH Data Collect Daily Report
- * 2020-04.14
+ * 2020-04.16
 
 ### DOH Data Collect Weekly Report
- * 2020-04.14
+ * 2020-04.16
 
 ### Testing Aggregates
- * 2020-04.14
+ * 2020-04.16
 
 
 Data inside the data and archive folders are under the [**DOH PRIVACY AND CONFIDENTIALITY STATEMENT**](https://github.com/benhur07b/covid19ph-doh-data-dump/blob/master/DOH%20PRIVACY%20AND%20CONFIDENTIALITY%20STATEMENT.txt) also found [here](https://docs.google.com/spreadsheets/d/1BLbrvgjkBWxr9g73xX9DLOqmbmuYyKc-_b8jIxCX1uo/edit).
 
 Data inside the data-modified foler is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br>
-
