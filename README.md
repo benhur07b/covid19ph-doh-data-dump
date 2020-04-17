@@ -24,18 +24,18 @@ The [**archive**](https://github.com/benhur07b/covid19ph-doh-data-dump/tree/mast
 ## UPDATES
 
 ### Case Information
- * 2020-04.16
+ * 2020-04.17
 
 ### DOH Data Collect Daily Report
- * 2020-04.16
+ * 2020-04.17
 
 ### DOH Data Collect Weekly Report
- * 2020-04.16
+ * 2020-04.17
 
 ### Testing Aggregates
- * 2020-04.16
+ * 2020-04.17
 
 
 Data inside the data and archive folders are under the [**DOH PRIVACY AND CONFIDENTIALITY STATEMENT**](https://github.com/benhur07b/covid19ph-doh-data-dump/blob/master/DOH%20PRIVACY%20AND%20CONFIDENTIALITY%20STATEMENT.txt) also found [here](https://docs.google.com/spreadsheets/d/1BLbrvgjkBWxr9g73xX9DLOqmbmuYyKc-_b8jIxCX1uo/edit).
 
-Data inside the data-modified foler is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br>
+Data inside the data-modified folder is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br>
