@@ -1,0 +1,69 @@
+Sheet,Field,Description,Type,Question Format,Possible Responses,Purpose
+Case Information,CaseCode,Random code assigned for labelling cases; does not equate to the unique case number assigned by DOH,Text,,,
+Case Information,Age,Age,Number,,,
+Case Information,AgeGroup,Five-year age group,Text,,,
+Case Information,Sex,Sex,Text,,,
+Case Information,DateRepConf,Date publicly announced as confirmed case,Date,,,
+Case Information,DateRecover,Date recovered,Date,,,
+Case Information,DateDied,Date died,Date,,,
+Case Information,RemovalType,Type of removal (recovery or death),Text,,,
+Case Information,DateRepRem,Date publicly announced as removed,Date,,,
+Case Information,Admitted,Binary variable indicating patient has been admitted to hospital,Binary,,,
+Case Information,RegionRes,Region of residence,Text,,,
+Case Information,ProvCityRes,Province of residence,Text,,,
+DOH Data Collect - Daily Report,updateddate,,Datetime,,,
+DOH Data Collect - Daily Report,addeddate,,Datetime,,,
+DOH Data Collect - Daily Report,hfhudcode,Health Facility Code. Unique identifier for the health facility based on the National Health Facility Registry,Text,,,
+DOH Data Collect - Daily Report,reportdate,Date of submission,Datetime,,,
+DOH Data Collect - Daily Report,icu_np_o,Total number of ICU beds with negative pressure in your facility that is currently occupied by patients,Numeric,# of ICU beds with negative pressure,# of occupied?,used for referral of patients; total ICU bed with negative pressure can be derived using these variables
+DOH Data Collect - Daily Report,beds_ward_o,Total number of beds in COVID-positive wards/units that is currently occupied by patients,Numeric,# of beds in COVID positive ward,# of occupied?,used for referral of patients; total beds in COVID positive wards can be derived using these variables
+DOH Data Collect - Daily Report,mechvent_v,Total number of mechanical ventilators that is vacant and available for use by patients,Numeric,Mechanical Ventilators used by COVID patients,# of vacant?,used for referral of patients; proxy for number of intubated patients; total mech vents can be derived using these variables
+DOH Data Collect - Daily Report,beds_ward_v,Total number of beds in COVID-positive wards/units that is vacant and available for use by patients,Numeric,# of beds in COVID positive ward,# of vacant?,used for referral of patients; total beds in COVID positive wards can be derived using these variables
+DOH Data Collect - Daily Report,icu_np_v,Total number of ICU beds with negative pressure in your facility that is vacant and available for use by  patients,Numeric,# of ICU beds with negative pressure,# of vacant?,used for referral of patients; total ICU bed with negative pressure can be derived using these variables
+DOH Data Collect - Daily Report,mechvent_o,Total number of mechanical ventilators that is currently occupied by patients,Numeric,Mechanical Ventilators used by COVID patients,# of occupied?,used for referral of patients; proxy for number of intubated patients; total mech vents can be derived using these variables
+DOH Data Collect - Daily Report,icu_wnp_o,Total number of ICU beds WITHOUT negative pressure in your facility that is currently occupied by patients,Numeric,# of ICU beds without negative pressure,# of occupied?,used for referral of patients; total ICU bed without negative pressure can be derived using these variables
+DOH Data Collect - Daily Report,isolbed_v,Total number of isolation beds in your facility that is vacant and available for use by patients,Numeric,"# COVID Isolation beds
+(exclude ICU beds)",# of vacant?,used for referral of patients; total isolation beds can be derived using these variables
+DOH Data Collect - Daily Report,isolbed_o,Total number of isolation beds in your facility that is currently occupied by patients,Numeric,"# COVID Isolation beds
+(exclude ICU beds)",# of occupied?,used for referral of patients; total isolation beds can be derived using these variables
+DOH Data Collect - Daily Report,cfname,Facility Name,Numeric,"# COVID Isolation beds
+(exclude ICU beds)",# of occupied?,used for referral of patients; total isolation beds can be derived using these variables
+DOH Data Collect - Daily Report,icu_wnp_v,Total number of ICU beds WITHOUT negative pressure in your facility that is vacant and available for use by patients,Numeric,# of ICU beds without negative pressure,# of vacant?,used for referral of patients; total ICU bed without negative pressure can be derived using these variables
+DOH Data Collect - Weekly Report,updateddate,,,,,
+DOH Data Collect - Weekly Report,addeddate,,,,,
+DOH Data Collect - Weekly Report,hfhudcode,Unique identifier for the health facility based on the National Health Facility Registry,Text,,,
+DOH Data Collect - Weekly Report,n95mask,Total number of N95 Masks (in boxes) that are unused/available in this facility,Numeric,How many of the following personal protective equipment (PPE) are still available?,N95 Masks (in boxes),determines essential supply
+DOH Data Collect - Weekly Report,icu_nurse,Total number of ICU Nurses serving COVID-19 Patients,Numeric,How many of the following types of staff do you have serving COVID-19 Patients?,ICU Nurses,determines capability to manage COVID critical cases
+DOH Data Collect - Weekly Report,resident,Total number of Resident Doctors serving COVID-19 Patients,Numeric,How many of the following types of staff do you have serving COVID-19 Patients?,Resident Doctors,determines capability to manage COVID cases
+DOH Data Collect - Weekly Report,gown,Total number of Gowns (in pieces) that are unused/available in this facility,Numeric,How many of the following personal protective equipment (PPE) are still available?,Gowns (in pieces),determines essential supply; will send to Supply chain for assistance
+DOH Data Collect - Weekly Report,er_nurse,Total number of ER Nurses serving COVID-19 Patients,Numeric,How many of the following types of staff do you have serving COVID-19 Patients?,ER Nurses,determines capability to manage COVID cases
+DOH Data Collect - Weekly Report,mechvent_tech,Total number of Mechanical ventilator technicians serving COVID-19 Patients,Numeric,How many of the following types of staff do you have serving COVID-19 Patients?,Mechanical ventilator technicians,determines capability to manage COVID critical cases
+DOH Data Collect - Weekly Report,surgmask,Total number of Surgical Masks (in boxes) that are unused/available in this facility,Numeric,How many of the following personal protective equipment (PPE) are still available?,Surgical Masks (in boxes),determines essential supply
+DOH Data Collect - Weekly Report,respthe,Total number of Respiratory therapists serving COVID-19 Patients,Numeric,How many of the following types of staff do you have serving COVID-19 Patients?,Respiratory therapists,determines capability to manage COVID critical cases
+DOH Data Collect - Weekly Report,pulmo,Total number of Pulmonologists serving COVID-19 Patients,Numeric,How many of the following types of staff do you have serving COVID-19 Patients?,Pulmonologists,determines capability to manage COVID critical cases
+DOH Data Collect - Weekly Report,shoe_cover,Total number of Shoe covers (in pairs) that are unused/available in this facility,Numeric,How many of the following personal protective equipment (PPE) are still available?,Shoe covers (in pairs),determines essential supply
+DOH Data Collect - Weekly Report,face_shield,Total number of Face Shields (in pieces) that are unused/available in this facility,Numeric,How many of the following personal protective equipment (PPE) are still available?,Face Shields (in pieces),determines essential supply
+DOH Data Collect - Weekly Report,ward_nurse,Total number of Ward Nurse serving COVID-19 Patients,Numeric,How many of the following types of staff do you have serving COVID-19 Patients?,Ward Nurse,determines capability to manage COVID cases
+DOH Data Collect - Weekly Report,head_cover,Total number of Head covers (in pieces) that are unused/available in this facility,Numeric,How many of the following personal protective equipment (PPE) are still available?,Head covers (in pieces),determines essential supply
+DOH Data Collect - Weekly Report,gloves,"Total number of Gloves, clean (in boxes) that are unused/available in this facility",Numeric,How many of the following personal protective equipment (PPE) are still available?,"Gloves, clean (in boxes)",determines essential supply
+DOH Data Collect - Weekly Report,id_specialist,Total number of Infectious disease specialists serving COVID-19 Patients,Numeric,How many of the following types of staff do you have serving COVID-19 Patients?,Infectious disease specialists,determines capability to manage COVID critical cases
+DOH Data Collect - Weekly Report,medtech,Total number of Medical Technologist serving COVID-19 Patients,Numeric,How many of the following types of staff do you have serving COVID-19 Patients?,Medical Technologist,determines capability to manage COVID cases
+DOH Data Collect - Weekly Report,ic_specialist,Total number of Intensive care specialist  serving COVID-19 Patients,Numeric,How many of the following types of staff do you have serving COVID-19 Patients?,Intensive care specialist,determines capability to manage COVID critical cases
+DOH Data Collect - Weekly Report,goggles,Total number of Goggles (in pieces) that are unused/available in this facility,Numeric,How many of the following personal protective equipment (PPE) are still available?,Goggles (in pieces),determines essential supply
+Testing Aggregates,Name of Health Facility/Laboratory,,,,,
+Testing Aggregates,Abbrev of Health Facility,,,,,
+Testing Aggregates,Daily Output - Positive Individuals,,,,,
+Testing Aggregates,Daily Output - Unique Individuals Tested ,,,,,
+Testing Aggregates,Daily Output - Tests Conducted,,,,,
+Testing Aggregates,Unique Individuals Tested,,,,,
+Testing Aggregates,Positive Individuals,,,,,
+Testing Aggregates,% positive/ unique individuals,,,,,
+Testing Aggregates,Negative Individuals,,,,,
+Testing Aggregates,% negative/unique individuals,,,,,
+Testing Aggregates,Equivocal Individuals,,,,,
+Testing Aggregates,% equivocal /unique individuals,,,,,
+Testing Aggregates,Invalid Individuals,,,,,
+Testing Aggregates,% invalid /unique individuals,,,,,
+Testing Aggregates,Total Tests Conducted,,,,,
+Testing Aggregates,Remaining Number of Tests,,,,,
+Testing Aggregates,Date,,,,,
